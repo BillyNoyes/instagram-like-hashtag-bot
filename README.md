@@ -1,4 +1,4 @@
-## instagram-like-hashtag-bot
+## Instagram Like Hashtag Bot
 
 Instagram bot that logins and likes all the pictures under a specific hashtag, using Node and Puppeteer
 
