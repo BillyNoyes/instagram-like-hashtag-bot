@@ -1,0 +1,21 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyNoyes/instagram-like-hashtag-bot.git"
+  },
+  "author": "Billy Noyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyNoyes/instagram-like-hashtag-bot/issues"
+  },
+  "homepage": "https://github.com/BillyNoyes/instagram-like-hashtag-bot#readme"
+}
